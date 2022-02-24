@@ -154,7 +154,7 @@ class _CalculatorState extends State<Calculator> {
     );
   }
 
-  //Calculator logic
+  //Calculate logic
   dynamic text = '0';
   double numOne = 0;
   double numTwo = 0;
